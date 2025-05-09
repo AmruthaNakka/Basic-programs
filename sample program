@@ -1,0 +1,7 @@
+'''write a code to calculate the area and circumference of a cicle by taking manual radius and assigning the pi value with 3.14159 r=7.5'''
+r=float(input("enter the radius :"))
+pi=3.14159
+area=pi*r*r
+circumference=2*pi*r
+print(area)
+print(circumference)
